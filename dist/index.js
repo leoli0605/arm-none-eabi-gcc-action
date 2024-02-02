@@ -149,7 +149,7 @@ const versions = {
         },
         mac_x86_64: {
             url: 'https://developer.arm.com/-/media/Files/downloads/gnu-rm/10-2020q4/gcc-arm-none-eabi-10-2020-q4-major-mac.tar.bz2',
-            md5: '1c3b8944c026d50362eef1f01f329a8e',
+            md5: 'e588d21be5a0cc9caa60938d2422b058',
         },
         linux_x86_64: {
             url: 'https://developer.arm.com/-/media/Files/downloads/gnu-rm/10-2020q4/gcc-arm-none-eabi-10-2020-q4-major-x86_64-linux.tar.bz2',
@@ -157,7 +157,7 @@ const versions = {
         },
         linux_aarch64: {
             url: 'https://developer.arm.com/-/media/Files/downloads/gnu-rm/10-2020q4/gcc-arm-none-eabi-10-2020-q4-major-aarch64-linux.tar.bz2',
-            md5: 'e588d21be5a0cc9caa60938d2422b058',
+            md5: '1c3b8944c026d50362eef1f01f329a8e',
         },
     },
     '9-2020-q2': {
